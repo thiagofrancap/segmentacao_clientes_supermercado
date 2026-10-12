@@ -11,10 +11,6 @@ Um supermercado, através de cartões de fidelidade, possui alguns dados básico
 
 Projeto de ensino utilizado em curso de Ciência de Dados pela [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/).
 
-<p align="center"> 
-  <a href="(https://www.linkedin.com/in/thiagopinhof/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
-
 ## Objetivos
 
 O objetivo deste projeto é mostrar aos alunos como segmentar os clientes com base em seus dados de compra. Em um cenário real, tal segmentação poderia ser utilizada pelo supermercado possa entender melhor os clientes e formular estratégias de negócios de acordo.
