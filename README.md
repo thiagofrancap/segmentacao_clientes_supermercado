@@ -9,8 +9,6 @@ Um supermercado, através de cartões de fidelidade, possui alguns dados básico
 
 [Link original para o dataset](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
-Projeto de ensino utilizado em curso de Ciência de Dados pela [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/).
-
 ## Objetivos
 
 O objetivo deste projeto é mostrar aos alunos como segmentar os clientes com base em seus dados de compra. Em um cenário real, tal segmentação poderia ser utilizada pelo supermercado possa entender melhor os clientes e formular estratégias de negócios de acordo.
